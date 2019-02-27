@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<civilizations>
+    <civilization>
+        <name>Egypt</name>
+        <adjective>egyptian</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>India</name>
+        <adjective>indian</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>China</name>
+        <adjective>chinese</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Greece</name>
+        <adjective>greek</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Rome</name>
+        <adjective>roman</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Persia</name>
+        <adjective>persian</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Japan</name>
+        <adjective>japanese</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Germany</name>
+        <adjective>german</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Mongolia</name>
+        <adjective>mongol</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>France</name>
+        <adjective>frank</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Arabia</name>
+        <adjective>arab</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Spain</name>
+        <adjective>spanish</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Ethiopia</name>
+        <adjective>ethiopian</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>England</name>
+        <adjective>english</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Russia</name>
+        <adjective>russian</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Mali</name>
+        <adjective>malinese</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Turk</name>
+        <adjective>turkish</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Zulu</name>
+        <adjective>zulu</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Poland</name>
+        <adjective>polish</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Carthage</name>
+        <adjective>carthiagian</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Korea</name>
+        <adjective>korean</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Aztec</name>
+        <adjective>aztec</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Scandinavia</name>
+        <adjective>scandic</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Inca</name>
+        <adjective>inca</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Armenia</name>
+        <adjective>armenian</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>South-China</name>
+        <adjective>south-chinese</adjective>
+    </civilization>
+    
+    <civilization>
+        <name>Austronesia</name>
+        <adjective>austronesian</adjective>
+    </civilization>
+</civilizations>
