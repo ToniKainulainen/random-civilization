@@ -8,3 +8,4 @@ The program retrieves a list of civilizations from a small xml-file, picks one c
 Every files related to the program are in the SimpleMVC-folder.
 
 Btw the Realism Invictus is an amazing mod for Civilization IV. I highly recommend it, if you are a civ 4 enthusiast.
+<a href="http://www.realism-invictus.com/">Link to the mod's homepage.</a>
