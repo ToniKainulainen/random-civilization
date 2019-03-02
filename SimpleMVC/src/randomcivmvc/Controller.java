@@ -19,7 +19,15 @@ public class Controller {
     }
     
     public void draw() {
-        gui.setText(model.civ());
+        try {
+            gui.setText(model.civ());
+        } catch(NullPointerException e) {
+            System.err.println("Civilizations not found.");
+            System.err.println("Likely the ArrayList, which should contain civilizations, is null.");
+            System.err.println("Please, check your xml-file and xsd-file paths in DataFetcher class and ArrayList variable in Model class.");
+        } finally {
+             System.err.println("Restart the program.");
+        }
     }
     
 }

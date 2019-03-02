@@ -17,9 +17,9 @@ import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
 public class DataFetcher {
-    
-    private static final String XSDPATH = "C:\\Users\\X220\\Desktop\\Software projects\\Java\\SimpleMVC\\assests\\xml\\civilizations.xsd";
-    private static final String XMLPATH = "C:\\Users\\X220\\Desktop\\Software projects\\Java\\SimpleMVC\\assests\\xml\\civilizations.xml";
+       
+    private static final String XSDPATH = "assests\\xml\\civilizations.xsd";
+    private static final String XMLPATH = "assests\\xml\\civilizations.xml";
     
     private static boolean validateXMLSchema() {
         try {
