@@ -6,3 +6,5 @@ This program helps me to decide a civilization to play in the Sid Meier's Civili
 The program retrieves a list of civilizations from a small xml-file, picks one civilization randomly and displays its title on a user interface made with swing-library components.
 
 Every files related to the program are in the SimpleMVC-folder.
+
+Btw the Realism Invictus is an amazing mod for Civilization IV. I highly recommend it, if you are a civ 4 enthusiast.
